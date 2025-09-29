@@ -1,2 +1,2 @@
-# TurnBasedGame
-A simple turn based game built using Python 
+# Turn Based Game
+A simple turn based game built using Python. 
